@@ -1,0 +1,43 @@
+{
+  "test": "test",
+  "My Profile": "My Profile",
+
+  "home": "Home",
+  "order": "Order",
+
+
+
+
+  "products": "Products",
+  "accessories": "Accessories",
+  "services": "Services",
+  "aboutUs": "AboutUs",
+  "welcome": "Welcome to my website",
+  "author": "Author is：<1>code and beast</1>",
+
+  "professionalMoreTop": "Professional air compressor",
+  "professionalMoreBottom": "manufacturer.",
+  "learnMore": "Learn More",
+
+  "memberSpecificAccount_info_title": "Your Sollant dedicated account",
+  "memberSpecificAccount_info_info": "As the owner and industry partner of Sollant compressors, you can access a wealth of resources such as operator manuals, engineering references, training, product selection, and more. Member specific accounts can provide you with services and support anytime, anywhere. Register your account now and unlock this highly beneficial support tool for a complete Sollant experience!",
+  "productSelection_info_title": "Product Selection",
+  "productSelection_info_info": "Simply select pressure, flow rate, power, etc. according to your needs to obtain a list of all products that meet your requirements. You can also view and download product manuals, exploded diagrams, CAD documents, accessory lists, and inventory status. You can export the results or send them to Sollant or yourself via email for further review. We also support online self-service ordering function.",
+  "orderTracking_info_title": "Order tracking",
+  "orderTracking_info_info": "Here, customers can check the delivery status, customs clearance documents, and other information of the products in their purchase orders, aiming to simplify communication costs for customers by quickly and clearly querying order management and cargo transportation time; Independently order spare parts or compressors and apply for an extension of warranty period.",
+  "accessoriesInquiry_info_title": "Accessories inquiry",
+  "accessoriesInquiry_info_info": "Customers can search for product accessory codes, pictures, sizes, weights, and other information through product selection. You can also search for product accessory information in your own order and apply for after-sales service.",
+  "warrantyInquiry_image_title": "Warranty inquiry",
+  "warrantyInquiry_image_info": "Customers can check the warranty period of the product through the machine code.",
+  "login": "login",
+  "newsletter": "Newsletter",
+  "subscribeToMore": "Subscribe to our Newsletter & Event right now to be updated.",
+  "yourEmailAddress": "Your email address",
+  "contacts": "Contacts",
+  "phone": "Contact Us",
+  "mailUs": "Mail Us",
+  "enterpriseInformation": "Enterprise Information",
+  "contactUs": "Contact Us",
+
+  "Oil-injectedMore": "Oil-injected Screw Compressor"
+}
